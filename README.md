@@ -1,10 +1,10 @@
 # K-means
 
-This is third assignment of Introduction to Machine Learning (COMP 462) course. In this assignment, I implement  K-means clustering algorithm to cluster given three different datasets.
+I implement  K-means clustering algorithm to cluster given three different datasets.
 
 ## Datasets
-The dataset ﬁles contain features (in 2D) and class labels. In this assignment, I
-didn’t use class labels since K-means is an unsupervised algorithm and does not
+The dataset ﬁles contain features (in 2D) and class labels. 
+I didn’t use class labels since K-means is an unsupervised algorithm and does not
 need class labels. Scatter plot of the datasets given in Figure 1.
 
  <p align="center" style="text-align:center"> 
